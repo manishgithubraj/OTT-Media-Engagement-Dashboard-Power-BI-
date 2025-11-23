@@ -1,7 +1,7 @@
 # OTT-Media-Engagement-Dashboard-Power-BI-
 Analyze Content Performance, User Engagement &amp; Subscription Trends Across OTT Platforms
 <p align="center">
-  <img src="C:\Users\ASUS\OneDrive\Desktop\power bi projects\OTT मीडिया और एंगेजमेंट डैशबोर्ड.png" width="900">
+  <img src="https://github.com/manishgithubraj/OTT-Media-Engagement-Dashboard-Power-BI-/blob/main/OTT%20%E0%A4%AE%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%8F%E0%A4%82%E0%A4%97%E0%A5%87%E0%A4%9C%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%9F%20%E0%A4%A1%E0%A5%88%E0%A4%B6%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%A1.png" width="900">
 </p>
 <h1 align="center">OTT Media & Engagement Dashboard | Power BI</h1>
 
