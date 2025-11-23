@@ -5,138 +5,129 @@ Analyze Content Performance, User Engagement &amp; Subscription Trends Across OT
 </p>
 <h1 align="center">OTT Media & Engagement Dashboard | Power BI</h1>
 
-📌 Project Overview
+## 📌 Project Overview
+The **OTT Media & Engagement Dashboard** provides meaningful insights into how users interact with OTT platforms such as **Netflix, Amazon Prime, and more**.  
+Using **Power BI**, the dashboard visualizes data related to content consumption, subscription patterns, and audience engagement to help platforms optimize offerings and boost retention.
 
-The OTT Media & Engagement Dashboard provides meaningful insights into how users interact with OTT platforms such as Netflix, Amazon Prime, and others.
-Using Power BI, the project visualizes data related to content consumption, subscription patterns, and audience engagement to help platforms optimize their offerings and improve viewer retention.
+This project demonstrates strong capabilities in **data cleaning, dashboard development, visualization, and insight generation**.
 
-This project showcases your skills in data cleaning, visualization, dashboard design, and business insights generation.
+---
 
-🎯 Objective
+## 🎯 Objective
+To build an **interactive Power BI dashboard** that analyzes:
+- User behavior  
+- Content popularity  
+- Subscription trends  
 
-To build an interactive Power BI dashboard that analyzes user behavior, content popularity, and subscription trends in the OTT industry—helping platform managers make data-driven decisions.
+🧠 The goal is to help OTT platforms make **data-driven decisions** to improve customer engagement and business performance.
 
-📥 Data Source
+---
 
-Source: GitHub Dataset / Public OTT Data
+## 📥 Data Source
+**Dataset:** GitHub / Public OTT Dataset
 
-Contains details such as:
+The dataset includes information on:
+- Content type  
+- Genre & region  
+- Ratings  
+- Subscriber count  
+- Subscription plans  
+- Watch duration  
+- User engagement metrics  
 
-Content type
+---
 
-Genre & region
+## 🚀 Key Features
 
-Ratings
+### 🔹 1. Content Popularity Analysis
+- Bar charts showing most-watched genres/platforms  
+- Treemaps visualizing genre & region distribution  
+- Highlights for highest-performing content categories  
 
-Subscriber counts
+### 🔹 2. Subscription Trends
+- Line charts showing subscription growth over time  
+- KPI cards displaying:  
+  - Total subscribers  
+  - Highest-rated content  
+  - Monthly/Yearly growth  
+- Doughnut charts showing subscription plan share (Basic / Standard / Premium)
 
-Subscription plans
+---
 
-Watch duration
+## 🎁 Benefits & Insights
 
-User engagement metrics
+| Category | Impact |
+|---------|--------|
+| **Audience Insights** | Understand which content categories attract viewers |
+| **Subscription Optimization** | Identify subscription boosts & drop periods |
+| **User Engagement** | Improve recommendations using ratings & watch duration |
 
-🚀 Key Features
-1. Content Popularity Analysis
+---
 
-✔ Bar charts showing most-watched content by genre/platform
-✔ Treemaps displaying content distribution across genres & regions
-✔ Insights into top-performing content categories
+## 🛠️ Tools & Technologies Used
+| Technology | Purpose |
+|-----------|---------|
+| **Power BI Desktop** | Dashboard creation |
+| **Power Query** | Data cleaning & transformation |
+| **DAX** | Custom calculated measures |
+| **Excel / CSV** | Raw data handling |
+| **Data Modeling** | Relationship-based analysis |
 
-2. Subscription Trends
+---
 
-✔ Line charts tracking subscription growth over time
-✔ KPI cards showing:
-
-Total subscribers
-
-Highest-rated content
-
-Monthly/Yearly growth
-✔ Doughnut charts showing subscription plan distribution (Basic, Standard, Premium)
-
-🎁 Benefits & Insights
-📌 Audience Insights
-
-Understand which genres, regions, and content types attract the most viewers.
-
-📌 Subscription Optimization
-
-Identify trends in subscriptions over time to target growth opportunities.
-
-📌 Engagement Enhancement
-
-Use content ratings, viewer duration, and trend charts to improve retention and personalize recommendations.
-
-🛠️ Tools & Technologies Used
-
-Power BI Desktop
-
-Power Query for data cleaning
-
-DAX for calculated measures
-
-Excel / CSV datasets
-
-Data Modeling techniques
-
-📂 Project Structure
+## 📂 Project Structure
 OTT-Media-Dashboard/
 │
 ├── Dataset/
-│   ├── ott_data.csv
+│ ├── ott_data.csv
 │
 ├── Dashboard/
-│   ├── OTT_Media_Engagement.pbix
+│ ├── OTT_Media_Engagement.pbix
 │
 ├── README.md
 └── Screenshots/
-    ├── dashboard_overview.png
-    ├── content_popularity.png
-    ├── subscription_trends.png
+├── dashboard_overview.png
+├── content_popularity.png
+├── subscription_trends.png
 
-📸 Dashboard Preview
 
-(Add your dashboard screenshots here)
 
-🔍 Insights Generated
+---
 
-Some sample insights your dashboard can uncover:
+## 📸 Dashboard Preview
+(Add screenshots once uploaded to the `/Screenshots/` folder)
 
-🎬 Action & Thriller genres drive the highest watch time on most platforms.
+---
 
-📈 Subscription spikes occur during new content releases or holiday seasons.
+## 🔍 Insights Generated
 
-🌍 USA contributes the highest OTT revenue; APAC is an emerging market.
+Example insights derived from the dashboard:
+- 🎬 **Action & Thriller** genres lead in global watch time.
+- 📈 Subscription **peaks** during major releases / holiday seasons.
+- 🌍 **USA** generates the highest OTT revenue, **APAC** shows emerging growth.
+- ⭐ **High-rated content increases retention** and repeat watch probability.
 
-⭐ High-rated content significantly boosts platform retention.
+---
 
-🧩 How This Project Helps
+## 🔮 Future Enhancements
+✔ Sentiment analysis using user reviews  
+✔ Churn rate prediction using ML  
+✔ Integration of Python / R visuals inside Power BI  
+✔ Real-time dashboards using OTT APIs  
 
-This project demonstrates your ability to:
+---
 
-✔ Build end-to-end analytical dashboards
-✔ Make sense of complex OTT datasets
-✔ Use Power BI for storytelling & insights
-✔ Improve product decisions through data
+## 🤝 Contributions
+Contributions, issues, and feature requests are welcome!  
+Feel free to **fork the repo** and submit a pull request.
 
-📎 Future Enhancements
+---
 
-Add sentiment analysis using reviews
+## 🙌 Author
+**👤 Manish Raj**  
+📧 **Email:** manishraj20526@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/manishraj20526](https://linkedin.com/in/manishraj20526)
 
-Build prediction models for churn rate
+---
 
-Integrate R or Python visuals into Power BI
-
-Create a real-time version using APIs
-
-🤝 Contributions
-
-Feel free to raise issues or submit pull requests.
-
-🙌 Author
-
-Manish Raj
-📧 Email: manishraj20526@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/manishraj20526
+⭐ If you like this project, don’t forget to **star the repository**!
